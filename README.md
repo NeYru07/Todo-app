@@ -1,6 +1,6 @@
 # Laravel ToDo App (Docker/Sail)
 
-Простое приложение для управления задачами, созданное на Laravel 11, PostgreSQL и Tailwind CSS.
+Простое приложение для управления задачами, созданное на Laravel 12, PostgreSQL и Tailwind CSS.
 
 ## Функционал
 - Добавление, редактирование и удаление задач.
